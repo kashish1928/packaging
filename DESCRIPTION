@@ -2,7 +2,7 @@ Package: packaging
 Title: Mathematical Operations
 Version: 0.0.0.9000
 Authors@R: 
-    person("Kashish", "Joshipura", , "kashishjoshipura@gmail.com", role = c("aut", "cre")
+    person("Kashish", "Joshipura", , "kashishjoshipura@gmail.com", role = c("aut", "cre"))
 Description: Performs mathematical Operations
 License: MIT + file LICENSE
 Encoding: UTF-8

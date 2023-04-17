@@ -4,6 +4,8 @@
 # packaging
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/kashish1928/packaging/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/kashish1928/packaging/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of packaging is to perform mathematical calculations

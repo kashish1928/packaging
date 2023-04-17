@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/kashish1928/packaging/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/kashish1928/packaging/actions/workflows/R-CMD-check.yaml)
+[![codecov](https://codecov.io/gh/kashish1928/packaging/branch/main/graph/badge.svg?token=mxvyLcLIB8)](https://codecov.io/gh/kashish1928/packaging)
 <!-- badges: end -->
 
 The goal of packaging is to perform mathematical calculations
